@@ -1,6 +1,6 @@
 # TicTacToe
 
-Simple mini game created with Java and built in GUI(graphical user interface) libraries! 
+#### Simple mini game created with Java and built in GUI(graphical user interface) libraries! 
 
 - <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> Java
 
@@ -8,5 +8,14 @@ Simple mini game created with Java and built in GUI(graphical user interface) li
   
 ## Installation
 
-Programs required:
+#### Programs required:
 - IDE for example VC Studio
+
+#### Before running program:
+
+#### How to run program?
+
+I suggest to run program using your IDE. Simply click "run java" button in prefereble app. Insert and display all commands in terminal.
+## Usage
+
+- Case 1
