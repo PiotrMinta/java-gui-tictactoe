@@ -24,7 +24,16 @@ Simply click "run java" button
 
 ## Usage
 
-- Case 1
+- Case 1:
+  ![Case 1](https://user-images.githubusercontent.com/115106367/226196284-e33d9ddc-ab14-45cf-8cf4-42b3a7cd52bb.jpg)
+
+- Case 2:
+  ![Case 2](https://user-images.githubusercontent.com/115106367/226196288-fa656d26-bef7-4226-9dc3-cde52c611d60.jpg)
+
+- Case 3:
+  ![Case 3](https://user-images.githubusercontent.com/115106367/226196296-b5e060ad-580a-444b-8671-77e6a5c9917b.jpg)
+
+
 
 
 
